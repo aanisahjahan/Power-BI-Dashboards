@@ -1,5 +1,5 @@
 <h1 align="center">
-  Retail Financial Performance & Profitability Analysis
+  Customer Segmentation Analysis
 </h1>
 <br />
 <h2>Segmentation Overview</h2>
